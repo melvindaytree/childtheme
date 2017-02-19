@@ -1,0 +1,33 @@
+/*
+ Theme Name:     Childs Play
+ Theme URI:      
+ Description:    Child Theme
+ Author:         Melvin Daytree
+ Author URI:     
+ Template:       twentysixteen
+ Version:        1.0.0
+*/
+ 
+@import url("../twentysixteen/style.css");
+ 
+/* =Theme customization starts here
+------------------------------------------------------- */
+ 
+
+#masthead {
+    background-color:red;
+    border:5px solid blue;
+}
+
+.bigg {
+    background-color:green;
+}
+
+.ugly {
+    color:burlywood;
+    border:5px dashed black;
+}
+
+.site-header-menu {
+    background-color:orange;
+}
